@@ -60,6 +60,6 @@ Hospital-Data-Analysis/
 │   └── Hospital_Cost_Report_Excel.xlsb
 │
 ├── Power BI/
-│   └── Mini_Project_Phase2.pbix
+│   └──  Hospital_Cost_Report_Power_BI.pbix
 │
 └── README.md
